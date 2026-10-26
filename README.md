@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of takumi9942/flarum-ext-japanese.** Not for installation: use [Packagist](https://packagist.org/packages/takumi9942/flarum-ext-japanese) or the [upstream repository](https://github.com/flarum-lang/japanese).
 
-**0** versions archived · Latest: [`4.0.13`](https://github.com/flarchive/flarum-lang-japanese/tree/archive/v4.0.13) · License: `MIT` · Flarum: `^2.0`
+**56** versions archived · Latest: [`4.0.13`](https://github.com/flarchive/flarum-lang-japanese/tree/archive/v4.0.13) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `3.9.7` | 2026-09-21 | `^1.0` | [Browse](https://github.com/flarchive/flarum-lang-japanese/tree/archive/v3.9.7) |
+| `4.0.12` | 2026-10-24 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-japanese/tree/archive/v4.0.12) |
+| `v0.5.0` | 2020-05-12 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/flarum-lang-japanese/tree/archive/v0.5.0) |
+| `v1.0.0` | 2020-05-12 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/flarum-lang-japanese/tree/archive/v1.0.0) |
+| `v1.1.0` | 2020-05-12 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/flarum-lang-japanese/tree/archive/v1.1.0) |
+| `v1.2.0` | 2020-05-12 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/flarum-lang-japanese/tree/archive/v1.2.0) |
+| `v1.3.0` | 2020-05-13 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/flarum-lang-japanese/tree/archive/v1.3.0) |
+| `v1.5.0` | 2020-05-13 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/flarum-lang-japanese/tree/archive/v1.5.0) |
+| `v1.6.0` | 2020-05-13 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/flarum-lang-japanese/tree/archive/v1.6.0) |
+| `v1.6.1` | 2020-05-13 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/flarum-lang-japanese/tree/archive/v1.6.1) |
+
+[View all 56 versions](https://github.com/flarchive/flarum-lang-japanese/tags)
 
 Catalog entry: [packages/flarum-lang-japanese.json](https://github.com/flarchive/archive-index/blob/main/packages/flarum-lang-japanese.json)
 
